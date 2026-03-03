@@ -43,3 +43,8 @@ tasks/
 
 # Project specific
 output/
+assets/
+AutoMosaic_仕様書.md
+
+# Model files (download at runtime)
+src/automosaic/models/
